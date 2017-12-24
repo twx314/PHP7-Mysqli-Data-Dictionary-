@@ -1,3 +1,5 @@
+PHP7 数据字典
+
 PHP7 Mysqli Data Dictionary
 
 php.ini  open  extension=php_mysqli.dll
